@@ -1,0 +1,10 @@
+
+M01 L13 Praca domowa status
+[ok] Discord konto i dolacz sie
+[ok] Discord wiadomosc do Kajetana z moim mailen 
+[ok] GitHub konto
+	https://github.com/PeterKMX/
+[ok] GitHub repos Szkola Dot Neta
+	https://github.com/PeterKMX/SDN-A-Mod-01
+[ok] Mod-01 L-07 Helloworld repo in GitHub
+	https://github.com/PeterKMX/SDN-A-Mod-01/tree/main/L07-HelloWorld
